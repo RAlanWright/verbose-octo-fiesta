@@ -24,7 +24,7 @@
     "@babel/preset-react": "^7.12.13",
     "eslint": "^7.18.0",
     "eslint-config-prettier": "^8.1.0",
-    "parcel": "^1.12.3",
+    "parcel": "^2.8.2",
     "prettier": "^2.3.2"
   },
   "dependencies": {
